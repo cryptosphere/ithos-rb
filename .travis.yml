@@ -1,0 +1,21 @@
+language: ruby
+sudo: false
+
+branches:
+  only:
+    - master
+
+os:
+  - linux
+  - osx
+
+rvm:
+  - 2.2
+  - 2.3.1
+  - jruby-9.0.5.0
+
+matrix:
+  fast_finish: true
+
+notifications:
+  irc: "irc.freenode.org#cryptosphere"
