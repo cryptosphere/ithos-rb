@@ -1,7 +1,9 @@
-# ithos-rb [![Latest Version][gem-image]][gem-link] [![Apache 2 licensed][license-image]][license-link]
+# ithos-rb [![Latest Version][gem-image]][gem-link] [![Build Status][build-image]][build-link] [![Apache 2 licensed][license-image]][license-link]
 
 [gem-image]: https://badge.fury.io/rb/ithos.svg
 [gem-link]: https://rubygems.org/gems/ithos
+[build-image]: https://travis-ci.org/cryptosphere/ithos-rb.svg?branch=master
+[build-link]: https://travis-ci.org/cryptosphere/ithos-rb
 [license-image]: https://img.shields.io/badge/license-Apache2-blue.svg
 [license-link]: https://github.com/cryptosphere/ithos-rb/blob/master/LICENSE
 
